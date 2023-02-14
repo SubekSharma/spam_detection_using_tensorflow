@@ -1,1 +1,1 @@
-# spam_detector
+It can be used to detect the spam emails.  
